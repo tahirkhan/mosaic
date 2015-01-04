@@ -21,19 +21,15 @@ Authentication
 #### Step 1. set $isRestricted to true
 
 ```php
-<?php
 $isRestricted = TRUE;
-?>
 ```
 
 #### Step 2. set users and passwords
 
 ```php
-<?php
 // use the following format for adding mutiple users 
 // user => password
 $users = array("myuser" => "secret");
-?>
 ```
 
 Thumbnail Sizes
